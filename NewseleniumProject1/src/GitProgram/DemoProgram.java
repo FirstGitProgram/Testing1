@@ -12,5 +12,7 @@ public class DemoProgram
 		System.out.println("This is my new Github program");
 		
 	}
+	DemoProgram dp=new DemoProgram();
+	dp.M1();
 
 }
