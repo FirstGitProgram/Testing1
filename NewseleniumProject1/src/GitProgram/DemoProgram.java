@@ -5,7 +5,7 @@ public class DemoProgram
 {
 	public void M1()
 	{
-		System.out.println("Hello M1 Method")
+		System.out.println("Hello M1 Method");
 	}
 	public static void main(String[] args)
 	{
