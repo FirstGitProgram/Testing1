@@ -12,10 +12,17 @@ public class NewGitPro
 	{
 		 System.out.println("m2 Method");
 	}
+	
      public static void main(String[] args)
      {
     	 System.out.println("Hello Git Program");
+    	 
+    	 NewGitPro np=new NewGitPro ();
+    	 np.m1();
+    	 np.m2();
 		
     }
+     
+     
 	
 }
