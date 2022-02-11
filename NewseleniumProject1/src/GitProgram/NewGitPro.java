@@ -12,6 +12,10 @@ public class NewGitPro
 	{
 		 System.out.println("m2 Method");
 	}
+	public void m4()
+	{
+		 System.out.println("m4 Method");
+	}
 	
      public static void main(String[] args)
      {
@@ -20,6 +24,7 @@ public class NewGitPro
     	 NewGitPro np=new NewGitPro ();
     	 np.m1();
     	 np.m2();
+    	 
 		
     }
      
